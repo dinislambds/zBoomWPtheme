@@ -1,2 +1,2 @@
 # zBoomWPtheme
-HTML to Custom WordPress Theme
+HTML to Custom WordPress Theme Convertion for practise purpose
